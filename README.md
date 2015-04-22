@@ -1,12 +1,6 @@
-ctci
-====
+1.1 Implement an algorithm to determine if a string has all unique characters What if you can not use additional data structures?
 
-Solutions for "Cracking the Coding Interview v5"
-
-Adding equivalent solutions in Objective-C
-Adding my own solutions
-
-<code>
+```
 public class Question {
 
 	public static boolean isUniqueChars(String str) {
@@ -43,4 +37,4 @@ public class Question {
 	}
 
 }
-</code>
+```
